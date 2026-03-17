@@ -30,7 +30,7 @@ regex
 scikit-image
 tensorboard
 tqdm
-transformers
+transformers==5.3.0
 triton
 umap-learn
 xgboost
